@@ -1,0 +1,17 @@
+body{
+    font-family:fantasy;
+}
+.site-heading-lower{
+    font-family: 'Times New Roman', Times, serif;
+    color: purple;
+}
+.mb-3{
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow !important;
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 15px 15px 20px rgba(181, 2, 240, 0.99);
+}

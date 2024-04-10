@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(189, 187, 184);
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h5 {
+    display: inline;
+    text-align: center;
+    font-style: italic;
+    background-color: crimson;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+a {
+    color: aqua;
+}
+
+a:visited {
+    color: crimson;
+}
+
+/* box model = content then padding then border then margin */
+img {
+    border: 2px solid fuchsia;
+    padding: 3px;
+    margin: 5px;
+    /* centers stuff */
+    /* display: block;
+    margin: auto; */
+}
+
+.imgcenter {
+    display: block;
+    margin: auto;
+}
+.rizz{
+    border: 2px solid yellow;
+    padding: 3px;
+    margin: 5px;
+    display: block;
+    margin: auto;
+}
+.rizz:hover{
+    border: 5px solid blue;
+    padding: 5px;
+    margin: 5px;
+    display: block;
+    margin: auto;
+}
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}

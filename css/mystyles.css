@@ -1,17 +1,17 @@
 body{
-    font-family:fantasy;
+    font-family:'Times New Roman', Times, serif;
 }
 .site-heading-lower{
     font-family: 'Times New Roman', Times, serif;
-    color: purple;
+    color: navy;
 }
 .mb-3{
     font-family: 'Times New Roman', Times, serif;
-    color: yellow !important;
+    color: lightgoldenrodyellow !important;
 }
 .notyellow{
     color: black !important;
 }
 .intro-text{
-    box-shadow: 15px 15px 20px rgba(181, 2, 240, 0.99);
+    box-shadow: 5px 5px 10px navy;
 }
